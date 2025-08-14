@@ -41,7 +41,7 @@ FaceGate/
 ## 📥 Installation
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/your-username/FaceGate.git
+git clone https://github.com/sethidivyam/FaceGate.git
 cd FaceGate
 ```
 2. **Install dependencies**:
